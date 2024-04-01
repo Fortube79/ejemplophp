@@ -1,4 +1,4 @@
 <?php
- print ("Prueba de Rollback-v2");
+ print ("Prueba de Rollback-v3");
  phpinfo();
 ?>
